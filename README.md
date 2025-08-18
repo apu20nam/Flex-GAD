@@ -29,6 +29,9 @@ training time, running 102× faster per epoch than Anomaly
 DAE and 3× faster per epoch than GAD-NR on average across
 seven benchmark datasets.
 
+## Architecture of the Flex-GAD
+
+<img width="2521" height="875" alt="Flex GAD Diagram (6)" src="https://github.com/user-attachments/assets/d9589291-6551-49a4-974a-e7b211d01fab" />
 
 
 
