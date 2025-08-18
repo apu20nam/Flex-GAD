@@ -51,3 +51,8 @@ conda env create -f environment.yml
 ```
 python run.py --dataset --lr --lambda_loss1 --lambda_loss2 --dimension --num_epochs
 ```
+#### Example for cora dataset
+```
+python run.py --dataset cora --lr 0.01 --lambda_loss1 0.9 --lambda_loss2 0.25 --dimension 128 --num_epochs 1500
+```
+
