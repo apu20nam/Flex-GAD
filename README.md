@@ -55,4 +55,8 @@ python run.py --dataset --lr --lambda_loss1 --lambda_loss2 --dimension --num_epo
 ```
 python run.py --dataset cora --lr 0.01 --lambda_loss1 0.9 --lambda_loss2 0.25 --dimension 128 --num_epochs 1500
 ```
+## Authors
+* Apu Chakraborty, IISER Bhopal
+* Anshul Kumar, JNU New Delhi
+* Dr. Gagan Raj Gupta, Associate Professor, IIT Bhilai (ex. LMTS, AT&T Labs, CA, USA)
 
